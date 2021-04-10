@@ -1,1 +1,2 @@
 hello and welcome to php class
+which is taught by prof. George P. Corser
